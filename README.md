@@ -1,2 +1,2 @@
 # Job-Finder
-Job Finder Website||Full Stack MERN
+Job Finder Website|| Full Stack MERN
