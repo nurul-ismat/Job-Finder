@@ -1,5 +1,5 @@
 # Job-Finder
-Job Finder Website|| Full Stack MERN
+Job Finder Website || Full Stack MERN
 
 ## Techonology Used:
 React, React Leaflet, React Query, Axios, Tailwind CSS, Daisy UI, Firebase, Node JS, Express JS, MongoDB.
